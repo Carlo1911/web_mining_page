@@ -9,7 +9,7 @@
   "author": "Hastech",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-beautify-code": "^2.0.3",
